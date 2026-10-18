@@ -1,16 +1,98 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ualter-Lab/Ualter-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá, eu sou o Walter!
 
-Here are some ideas to get you started:
+💻 Estudante de Desenvolvimento de Sistemas | Desenvolvedor Python | Robótica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  Transformando ideias em código e aprendendo algo novo a cada projeto.
+</p>
+<a href="https://github.com/Ualter-Lab">
+  <img src="https://img.shields.io/badge/GitHub-Ualter--Lab-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</a>
+</div>
+
+⸻
+
+🧑‍💻 Sobre mim
+
+* 🎓 Cursando Desenvolvimento de Sistemas no IFAL.
+* 🐍 Desenvolvo projetos utilizando Python e Flask.
+* 🌐 Tenho interesse em desenvolvimento web, bancos de dados e lógica de programação.
+* 🤖 Tenho experiência com robótica educacional e programação de robôs.
+* 🧠 Gosto de entender como as coisas funcionam, resolver problemas e aprender na prática.
+* 🚀 Estou sempre buscando novos desafios para evoluir como programador.
+
+⸻
+
+🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+Linguagens
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Linguagens de programação">
+
+Frameworks e banco de dados
+
+<img src="https://skillicons.dev/icons?i=flask,tailwind,postgres" alt="Frameworks e banco de dados">
+
+Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,apple" alt="Ferramentas de desenvolvimento">
+
+
+⸻
+
+📌 Projetos em destaque
+
+🔹 SEA — Sistema de Envio de Atividades
+
+Sistema desenvolvido com Python e Flask, com funcionalidades relacionadas a atividades acadêmicas e gerenciamento de entregas.
+
+🔹 IFMaker
+
+Projeto voltado ao gerenciamento de agendamentos e inventário em um ambiente de fabricação e prototipagem.
+
+🔹 Portfólio de desenvolvimento
+
+Meu espaço para apresentar projetos, habilidades e serviços de desenvolvimento web.
+
+🌐 Acesse meu portfólio:
+ualter-lab.github.io/portfolio
+
+Confira meus repositórios para acompanhar meus projetos e minha evolução como desenvolvedor.
+
+⸻
+
+📊 Estatísticas do GitHub
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ualter-Lab&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ualter-Lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas">
+</div>
+
+⸻
+
+🎯 No que estou trabalhando
+
+* 📚 Aprofundando meus conhecimentos em Python e estruturas de dados.
+* 🗄️ Aprimorando minhas habilidades com bancos de dados.
+* 🌐 Desenvolvendo aplicações web cada vez melhores.
+* 🤖 Explorando novas possibilidades na programação e na robótica.
+
+⸻
+
+<div align="center">
+
+💡 Sempre aprendendo. Sempre construindo.
+
+Um projeto de cada vez.
+
+</div>
