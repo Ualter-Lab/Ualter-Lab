@@ -45,7 +45,7 @@ Frameworks e banco de dados
 
 Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode, apple" alt="Ferramentas de desenvolvimento">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,apple" alt="Ferramentas de desenvolvimento">
 
 
 ⸻
