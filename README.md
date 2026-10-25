@@ -31,22 +31,32 @@
 
 ⸻
 
-🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-Linguagens
+### Linguagens
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Linguagens de programação">
 
-Frameworks e banco de dados
+### Frameworks e bibliotecas
 
-<img src="https://skillicons.dev/icons?i=flask,tailwind,postgres" alt="Frameworks e banco de dados">
+<img src="https://skillicons.dev/icons?i=flask,tailwind" alt="Frameworks e bibliotecas">
 
-Ferramentas
+### Bancos de dados
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,apple" alt="Ferramentas de desenvolvimento">
+<img src="https://skillicons.dev/icons?i=postgres,sqlite" alt="Bancos de dados">
 
+### Ferramentas de desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma" alt="Ferramentas de desenvolvimento">
+
+### Robótica e sistemas
+
+<img src="https://skillicons.dev/icons?i=arduino,linux" alt="Robótica e sistemas">
+<img src="https://cdn.simpleicons.org/apple/FFFFFF" width="48" alt="Apple">
+
+</div>
 
 ⸻
 
