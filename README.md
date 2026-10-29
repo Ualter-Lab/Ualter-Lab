@@ -82,9 +82,13 @@ Confira meus repositórios para acompanhar meus projetos e minha evolução como
 ⸻
 
 📊 Estatísticas do GitHub
+<div align="center">
+  <a href="https://streak-stats.demolab.com/?user=johnUFAL&theme=default&border_radius=5">
+    <img height="200" align="center" src="https://streak-stats.demolab.com/?user=johnUFAL&theme=default&border_radius=5" alt="GitHub Streak" />
+  </a>
+</div>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ualter-Lab&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ualter-Lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas">
 </div>
 
