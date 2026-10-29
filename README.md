@@ -83,7 +83,7 @@ Confira meus repositórios para acompanhar meus projetos e minha evolução como
 
 📊 Estatísticas do GitHub
 <div align="center">
-  <a href="https://streak-stats.demolab.com/?user=johnUFAL&theme=default&border_radius=5">
+  <a href="https://streak-stats.demolab.com/?user=Ualter-Lab&theme=default&border_radius=5">
     <img height="200" align="center" src="https://streak-stats.demolab.com/?user=johnUFAL&theme=default&border_radius=5" alt="GitHub Streak" />
   </a>
 </div>
