@@ -5,7 +5,7 @@
 💻 Estudante de Desenvolvimento de Sistemas | Desenvolvedor Python | Robótica
 
 <p>
-  Transformando ideias em código e aprendendo algo novo a cada projeto
+  Transformando ideias em código e aprendendo algo novo a cada projeto.
 </p>
 <a href="https://github.com/Ualter-Lab">
   <img src="https://img.shields.io/badge/GitHub-Ualter--Lab-181717?style=for-the-badge&logo=github" alt="GitHub">
