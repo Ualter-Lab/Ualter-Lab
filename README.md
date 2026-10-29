@@ -34,7 +34,7 @@
 📊 Estatísticas do GitHub
 <div align="center">
   <a href="https://streak-stats.demolab.com/?user=Ualter-Lab&theme=dark&border_radius=5">
-    <img height="200" align="center" src="https://streak-stats.demolab.com/?user=Ualter-Lab&theme=dark&border_radius=5" alt="GitHub Streak" />
+    <img height="200" align="center" src="https://streak-stats.demolab.com/?user=Ualter-Lab&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
   </a>
 </div>
 
