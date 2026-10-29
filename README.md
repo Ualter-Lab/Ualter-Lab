@@ -37,7 +37,7 @@
     <img height="200" align="center" src="https://streak-stats.demolab.com/?user=Ualter-Lab&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
   </a>
 </div>
-
+</br>
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ualter-Lab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas">
 </div>
