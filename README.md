@@ -33,7 +33,7 @@
 
 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://ghstats.dev/api/card?username=Ualter-Lab&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://ghstats.dev/api/card?username=Ualter-Lab&theme=tokyonight&alltime=true" alt="GitHub Stats — All Time" />
 </div>
 </br>
 <div align="center">
