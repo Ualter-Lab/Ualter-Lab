@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Walter!
+Olá, eu sou o Walter! 👋
 
 💻 Estudante de Desenvolvimento de Sistemas | Desenvolvedor Python | Robótica
 
